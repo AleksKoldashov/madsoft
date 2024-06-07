@@ -1,0 +1,9 @@
+.app{
+    margin: 25px;
+}
+.timer{
+    display: flex;
+}
+.res{
+    display: none;
+}
